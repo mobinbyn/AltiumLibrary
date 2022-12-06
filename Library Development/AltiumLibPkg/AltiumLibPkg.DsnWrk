@@ -1,0 +1,82 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Microcontroller\Atmel Microcontroller 8-Bit megaAVR\Atmel Microcontroller 8-Bit megaAVR.LibPkg
+[Project2]
+ProjectPath=Microcontroller\Atmel Microcontroller 8-Bit tinyAVR\Atmel Microcontroller 8-Bit tinyAVR.LibPkg
+[Project3]
+ProjectPath=Barrier-Terminal-Block\Barrier-Terminal-Block.LibPkg
+[Project4]
+ProjectPath=Capacitor\Capacitor.LibPkg
+[Project5]
+ProjectPath=Connector\Connector.LibPkg
+[Project6]
+ProjectPath=Connector-FPC\Connector-FPC.LibPkg
+[Project7]
+ProjectPath=Connector-RF\Connector-RF.LibPkg
+[Project8]
+ProjectPath=Connector-RJ\Connector-RJ.LibPkg
+[Project9]
+ProjectPath=Diode\Diode.LibPkg
+[Project10]
+ProjectPath=Dip Switch\Dip Switch.LibPkg
+[Project11]
+ProjectPath=Display\Display.LibPkg
+[Project12]
+ProjectPath=Header\Header.LibPkg
+[Project13]
+ProjectPath=Header IDC\Header IDC.LibPkg
+[Project14]
+ProjectPath=Heatsink\Heatsink.LibPkg
+[Project15]
+ProjectPath=IC\IC.LibPkg
+[Project16]
+ProjectPath=Inductor\Inductor.LibPkg
+[Project17]
+ProjectPath=interface-darlington-driver\interface-darlington-driver.LibPkg
+[Project18]
+ProjectPath=LED\LED.LibPkg
+[Project19]
+ProjectPath=logic-multivibrator\logic-multivibrator.LibPkg
+[Project20]
+ProjectPath=Micro Switch\Micro Switch.LibPkg
+[Project21]
+ProjectPath=Module\Module.LibPkg
+[Project22]
+ProjectPath=Microcontroller\Microcontroller PIC\Microcontroller PIC.LibPkg
+[Project23]
+ProjectPath=Potentiometer\Potentiometer.LibPkg
+[Project24]
+ProjectPath=Practical\Practical.LibPkg
+[Project25]
+ProjectPath=Regulator\Regulator.LibPkg
+[Project26]
+ProjectPath=Relay\Relay.LibPkg
+[Project27]
+ProjectPath=Resistor\Resistor.LibPkg
+[Project28]
+ProjectPath=Screw\Screw.LibPkg
+[Project29]
+ProjectPath=Socket\Socket.LibPkg
+[Project30]
+ProjectPath=Microcontroller\STMicroelectronics STM32 F0\STMicroelectronics STM32 F0.LibPkg
+[Project31]
+ProjectPath=Microcontroller\STMicroelectronics STM32 F1\STMicroelectronics STM32 F1.LibPkg
+[Project32]
+ProjectPath=Microcontroller\STMicroelectronics STM32 F2\STMicroelectronics STM32 F2.LibPkg
+[Project33]
+ProjectPath=Microcontroller\STMicroelectronics STM32 F3\STMicroelectronics STM32 F3.LibPkg
+[Project34]
+ProjectPath=Microcontroller\STMicroelectronics STM32 F4\STMicroelectronics STM32 F4.LibPkg
+[Project35]
+ProjectPath=standard-graphic-logo\standard-graphic-logo.LibPkg
+[Project36]
+ProjectPath=Switch\Switch.LibPkg
+[Project37]
+ProjectPath=Transistor\Transistor.LibPkg
+[Project38]
+ProjectPath=Triac\Triac.LibPkg
+[Project39]
+ProjectPath=Varistor (VDR)\Varistor (VDR).LibPkg
+[Project40]
+ProjectPath=XH Connector\XH Connector.LibPkg
